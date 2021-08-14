@@ -5,7 +5,7 @@ const LostPage = ({ history }) => {
     return (
         <Center h="95vh">
             <VStack>
-                <Heading mb={10}>Page not Found</Heading>
+                <Heading mb={10}>Page not Found!</Heading>
                 <Button onClick={() => history.push('/')}>Go Back</Button>
             </VStack>
         </Center>
