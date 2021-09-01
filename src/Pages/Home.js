@@ -308,26 +308,27 @@ const HomePage = () => {
 
                                 <ul className="list-unstyled">
                                     <li className="media flex-column flex-md-row text-center text-md-left">
-                                        <i className="mx-auto mr-md-3 mx-auto mr-md-3 accent pe pe-7s-mail pe-3x"></i>
+                                        <i className="mx-auto mr-md-3 mx-auto mr-md-3 accent pe pe-7s-graph1 pe-3x"></i>
                                         <div className="media-body mt-3 mt-md-0">
-                                            <h5 className="bold mt-0 mb-1">Mail Management</h5>
-                                            <p className="m-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet aut autem eum laudantium quas recusandae repellendus voluptate.</p>
+                                            <h5 className="bold mt-0 mb-1">MarketPlace</h5>
+                                            <p className="m-0">A one stop to all your search for capable professionals to get the work done</p>
                                         </div>
                                     </li>
 
                                     <li className="media flex-column flex-md-row text-center text-md-left mt-4">
                                         <i className="mx-auto mr-md-3 mx-auto mr-md-3 accent pe pe-7s-users pe-3x"></i>
                                         <div className="media-body mt-3 mt-md-0">
-                                            <h5 className="bold mt-0 mb-1">Customers Tracking</h5>
-                                            <p className="m-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet aut autem eum laudantium quas recusandae repellendus voluptate.</p>
+                                            <h5 className="bold mt-0 mb-1">Appointment Tracking</h5>
+                                            <p className="m-0">Tracking the status of an appointment or task to be done has never been easier</p>
                                         </div>
                                     </li>
 
                                     <li className="media flex-column flex-md-row text-center text-md-left mt-4">
-                                        <i className="mx-auto mr-md-3 mx-auto mr-md-3 accent pe pe-7s-graph1 pe-3x"></i>
+                                        <i className="mx-auto mr-md-3 mx-auto mr-md-3 accent pe pe-7s-mail pe-3x"></i>
+
                                         <div className="media-body mt-3 mt-md-0">
-                                            <h5 className="bold mt-0 mb-1">Advanced Reporting</h5>
-                                            <p className="m-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet aut autem eum laudantium quas recusandae repellendus voluptate.</p>
+                                            <h5 className="bold mt-0 mb-1">Proper communication</h5>
+                                            <p className="m-0">There is a realtime connection between you and your professionals. You are never out of information</p>
                                         </div>
                                     </li>
                                 </ul>
@@ -407,11 +408,11 @@ const HomePage = () => {
 
                                     <div className="d-none d-md-flex">
                                         <ul className="list-group list-group-flush list-group-no-border">
-                                            <li className="list-group-item">Lorem ipsum dolor sit amet</li>
-                                            <li className="list-group-item">Dicta doloremque</li>
-                                            <li className="list-group-item">Consectetur fuga inventore</li>
-                                            <li className="list-group-item">Alias animi, assumenda atque</li>
-                                            <li className="list-group-item">Accusamus adipisci aspernatur</li>
+                                            <li className="list-group-item">Access to marketplace</li>
+                                            <li className="list-group-item">Unlimited appointments</li>
+                                            <li className="list-group-item">Unlimited access to business</li>
+                                            <li className="list-group-item">Unlimted Chats</li>
+                                            <li className="list-group-item">Technical support</li>
                                         </ul>
                                     </div>
 
@@ -428,16 +429,11 @@ const HomePage = () => {
                                                     </div>
                                                     <div className="modal-body plan-features">
                                                         <ul className="list-group list-group-flush text-center">
-                                                            <li className="list-group-item border-top-0">Lorem ipsum dolor sit amet</li>
-                                                            <li className="list-group-item">Dicta doloremque</li>
-                                                            <li className="list-group-item">Consectetur fuga inventore</li>
-                                                            <li className="list-group-item">Alias animi, assumenda atque</li>
-                                                            <li className="list-group-item">Accusamus adipisci aspernatur</li>
-                                                            <li className="list-group-item">Delectus earum iste nobis</li>
-                                                            <li className="list-group-item">Accusamus alias amet at</li>
-                                                            <li className="list-group-item">Accusamus alias aliquid</li>
-                                                            <li className="list-group-item">Animi blanditiis eveniet</li>
-                                                            <li className="list-group-item">Ab aliquid amet consequatur</li>
+                                                            <li className="list-group-item border-top-0">Access to marketplace</li>
+                                                            <li className="list-group-item">Unlimited appointments</li>
+                                                            <li className="list-group-item">Unlimited access to business</li>
+                                                            <li className="list-group-item">Unlimted Chats</li>
+                                                            <li className="list-group-item">Technical support</li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -515,11 +511,12 @@ const HomePage = () => {
 
                                     <div className="d-none d-md-flex">
                                         <ul className="list-group list-group-flush list-group-no-border">
-                                            <li className="list-group-item">Lorem ipsum dolor sit amet</li>
-                                            <li className="list-group-item">Dicta doloremque</li>
-                                            <li className="list-group-item">Consectetur fuga inventore</li>
-                                            <li className="list-group-item">Alias animi, assumenda atque</li>
-                                            <li className="list-group-item">Accusamus adipisci aspernatur</li>
+                                            <li className="list-group-item">Access to marketplace</li>
+                                            <li className="list-group-item">Unlimited access to clients</li>
+                                            <li className="list-group-item">Unlimited appointments</li>
+                                            <li className="list-group-item">Unlimited Schedules</li>
+                                            <li className="list-group-item">Unlimted Chats</li>
+                                            <li className="list-group-item">Technical support</li>
                                         </ul>
                                     </div>
 
@@ -536,16 +533,12 @@ const HomePage = () => {
                                                     </div>
                                                     <div className="modal-body plan-features">
                                                         <ul className="list-group list-group-flush text-center">
-                                                            <li className="list-group-item border-top-0">Lorem ipsum dolor sit amet</li>
-                                                            <li className="list-group-item">Dicta doloremque</li>
-                                                            <li className="list-group-item">Consectetur fuga inventore</li>
-                                                            <li className="list-group-item">Alias animi, assumenda atque</li>
-                                                            <li className="list-group-item">Accusamus adipisci aspernatur</li>
-                                                            <li className="list-group-item">Delectus earum iste nobis</li>
-                                                            <li className="list-group-item">Accusamus alias amet at</li>
-                                                            <li className="list-group-item">Accusamus alias aliquid</li>
-                                                            <li className="list-group-item">Animi blanditiis eveniet</li>
-                                                            <li className="list-group-item">Ab aliquid amet consequatur</li>
+                                                            <li className="list-group-item border-top-0">Access to marketplace</li>
+                                                            <li className="list-group-item">Unlimited access to clients</li>
+                                                            <li className="list-group-item">Unlimited appointments</li>
+                                                            <li className="list-group-item">Unlimited Schedules</li>
+                                                            <li className="list-group-item">Unlimted Chats</li>
+                                                            <li className="list-group-item">Technical support</li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -558,20 +551,21 @@ const HomePage = () => {
                         </div>
                     </div>
 
-                    <div className="container pt-0 border-bottom">
-                        <div className="row align-items-center">
-                            <div className="col-md-8">
-                                <div className="text-center text-md-left">
-                                    <h4 className="bold accent">Not sure what's better for you?</h4>
-                                    <p className="mt-0">You can start for free, as long as you fell in love with our App you can decide what plan better suites your needs. <span className="italic dotted">By picking any of the pay plans you'll get 30 days free trial.</span></p>
-                                </div>
-                            </div>
+                    {  // <div className="container pt-0 border-bottom">
+                        //     <div className="row align-items-center">
+                        //         <div className="col-md-8">
+                        //             <div className="text-center text-md-left">
+                        //                 <h4 className="bold accent">Not sure what's better for you?</h4>
+                        //                 <p className="mt-0">You can start for free, as long as you fell in love with our App you can decide what plan better suites your needs. <span className="italic dotted">By picking any of the pay plans you'll get 30 days free trial.</span></p>
+                        //             </div>
+                        //         </div>
 
-                            <div className="col-md-4 text-center text-md-right">
-                                <a href="#!" className="btn btn-primary btn-lg text-contrast p-4 more-link ml-md-auto">Try it now !</a>
-                            </div>
-                        </div>
-                    </div>
+                        //         <div className="col-md-4 text-center text-md-right">
+                        //             <a href="#!" className="btn btn-primary btn-lg text-contrast p-4 more-link ml-md-auto">Try it now !</a>
+                        //         </div>
+                        //     </div>
+                        // </div>
+                    }
                 </section>
                 {
                     // <section className="section integration-bubbles">
@@ -689,14 +683,15 @@ const HomePage = () => {
 
                     <div className="container pb-8 bring-to-front">
                         <div className="section-heading text-center">
-                            <h2 className="heading-line">Why you should choose Laap?</h2>
-                            <p className="text-muted lead mx-auto">Laapp is designed to provide you with the last trends in web design. It'll help you to focus on your product, launch your website faster and reach more customer.</p>
+                            <h2 className="heading-line">Why you should choose Dyaplock?</h2>
+                            <p className="text-muted lead mx-auto">
+                                Dyaplock provides a service that creates efficiency when customers seek to book appointments. Customers can conveniently pick the time of request for service. Customer can then schedule the appointment to the business nearby. Customers can view ratings of shops. Business owners will have the luxury on confirming these appointments and providing coupons to their customers, ultimately making there shop tech. savvy and decrease the risk of covid.</p>
                         </div>
 
                         <div className="row gap-y">
                             <div className="col-md-6">
-                                <h4 className="bold text-alternate">It all start by choosing the right tools</h4>
-                                <p className="text-muted lead mb-5">When you're looking for a template you want it to stand-out. Laapp comes with many customizable components.</p>
+                                <h4 className="bold text-alternate">It all start by being on the right app</h4>
+                                <p className="text-muted lead mb-5">When you're looking for the right professional for the job, Dyaplock is there to help.</p>
 
                                 <ul className="list-unstyled why-icon-list">
 
@@ -709,8 +704,8 @@ const HomePage = () => {
                                             </div>
 
                                             <div className="media-body">
-                                                <h5 className="bold">Integrations</h5>
-                                                <p className="my-0">Aut debitis deserunt ea explicabo hic id incidunt, minus</p>
+                                                <h5 className="bold">Listings</h5>
+                                                <p className="my-0">All profesionals around you in one place</p>
                                             </div>
                                         </div>
                                     </li>
@@ -723,8 +718,8 @@ const HomePage = () => {
                                             </div>
 
                                             <div className="media-body">
-                                                <h5 className="bold">Marketing</h5>
-                                                <p className="my-0">Aliquam amet assumenda debitis dicta distinctio eaque enim</p>
+                                                <h5 className="bold">Tracking</h5>
+                                                <p className="my-0">The status of the task can easily be monitored</p>
                                             </div>
                                         </div>
                                     </li>
@@ -737,8 +732,8 @@ const HomePage = () => {
                                             </div>
 
                                             <div className="media-body">
-                                                <h5 className="bold">Support</h5>
-                                                <p className="my-0">Consequatur doloremque illum libero nam. Hic, vitae?</p>
+                                                <h5 className="bold">Discussions</h5>
+                                                <p className="my-0">You have access to communicate with the professional in realtime</p>
                                             </div>
                                         </div>
                                     </li>
@@ -746,9 +741,10 @@ const HomePage = () => {
                                 </ul>
 
                                 <hr className="my-5" />
-                                <div className="text-center text-md-left">
-                                    <a href="#!" className="btn btn-primary text-contrast">Know More</a>
-                                </div>
+                                {  // <div className="text-center text-md-left">
+                                    //     <a href="#!" className="btn btn-primary text-contrast">Know More</a>
+                                    // </div>
+                                }
                             </div>
 
                             <div className="col-md-6">
@@ -787,17 +783,18 @@ const HomePage = () => {
                         <div className="row">
                             <div className="col-lg-8 mx-lg-auto">
 
-                                <div data-aos="fade-up">
-                                    <div className="card shadow-box shadow-hover mb-3">
-                                        <div className="card-header py-3">
-                                            <a href="#" className="card-title collapsed" data-toggle="collapse" data-target="#v1-q1">What does the package include?</a>
-                                        </div>
+                                { // <div data-aos="fade-up">
+                                    //     <div className="card shadow-box shadow-hover mb-3">
+                                    //         <div className="card-header py-3">
+                                    //             <a href="#" className="card-title collapsed" data-toggle="collapse" data-target="#v1-q1">What does the package include?</a>
+                                    //         </div>
 
-                                        <div id="v1-q1" className="collapse card-body">
-                                            When you buy Dashcore, you get all you see in the demo but the images. We include SASS files for styling, complete JS files with comments, all HTML variations. Besides we include all mobile PSD mockups.
-                                        </div>
-                                    </div>
-                                </div>
+                                    //         <div id="v1-q1" className="collapse card-body">
+                                    //             When you buy Dashcore, you get all you see in the demo but the images. We include SASS files for styling, complete JS files with comments, all HTML variations. Besides we include all mobile PSD mockups.
+                                    //         </div>
+                                    //     </div>
+                                    // </div>
+                                }
 
                                 <div data-aos="fade-up">
                                     <div className="card shadow-box shadow-hover mb-3">
@@ -811,18 +808,18 @@ const HomePage = () => {
                                     </div>
                                 </div>
 
-                                <div data-aos="fade-up">
-                                    <div className="card shadow-box shadow-hover mb-3">
-                                        <div className="card-header py-3">
-                                            <a href="#" className="card-title collapsed" data-toggle="collapse" data-target="#v1-q3">What do I need to know to customize this template?</a>
-                                        </div>
+                                {   // <div data-aos="fade-up">
+                                    //     <div className="card shadow-box shadow-hover mb-3">
+                                    //         <div className="card-header py-3">
+                                    //             <a href="#" className="card-title collapsed" data-toggle="collapse" data-target="#v1-q3">What do I need to know to customize this template?</a>
+                                    //         </div>
 
-                                        <div id="v1-q3" className="collapse card-body">
-                                            Our documentation give you all you need to customize your copy. However you will need some basic web design knowledge (HTML, Javascript and CSS)
-                                        </div>
-                                    </div>
-                                </div>
-
+                                    //         <div id="v1-q3" className="collapse card-body">
+                                    //             Our documentation give you all you need to customize your copy. However you will need some basic web design knowledge (HTML, Javascript and CSS)
+                                    //         </div>
+                                    //     </div>
+                                    // </div>
+                                }
                                 <div data-aos="fade-up">
                                     <div className="card shadow-box shadow-hover mb-3">
                                         <div className="card-header py-3">
@@ -830,7 +827,7 @@ const HomePage = () => {
                                         </div>
 
                                         <div id="v1-q4" className="collapse card-body">
-                                            Definitely <span className='bold'>Yes</span>, you can contact us to let us know your needs. If your suggestion represents any value to both we can include it as a part of the theme or you can request a custom build by an extra cost. Please note it could take some time in order for the feature to be implemented.
+                                            Definitely <span className='bold'>Yes</span>, you can contact us to let us know your needs. If your suggestion represents any value to both we can include it as of a new update. Please note it could take some time in order for the feature to be implemented.
                                         </div>
                                     </div>
                                 </div>
@@ -871,15 +868,15 @@ const HomePage = () => {
                             <div className="col-md-6 mx-auto">
                                 <div className="section-heading text-center">
                                     <i className="pe pe-7s-unlock fa-3x text-alternate"></i>
-                                    <h2 className="heading-line bold mt-4">Start your 30 days free trial now!</h2>
+                                    <h2 className="heading-line bold mt-4">Start your 30 days free trial for businesses now!</h2>
                                     <p className="lead text-muted">By signing up you will get 30 days free trial. You won't be charged until the trial period ends, <span className="italic">don't let this offer pass in from of your eyes</span></p>
                                 </div>
                             </div>
                         </div>
 
                         <div className="nav flex-column flex-md-row align-items-center justify-content-center">
-                            <a href="#!" className="btn btn-alternate btn-lg py-3 px-4 bold mr-0 mr-md-3 mb-3 mb-md-0">Sign up</a>
-                            <a href="mailto:support@5studios.net" className="btn btn-outline-dark btn-lg py-3 px-4 bold">Contact us</a>
+                            <a href="#!" className="btn btn-alternate btn-lg py-3 px-4 bold mr-0 mr-md-3 mb-3 mb-md-0">Download Business App</a>
+                            <a href="mailto:dyaplock@gmail.com" className="btn btn-outline-dark btn-lg py-3 px-4 bold">Contact us</a>
                         </div>
                     </div>
                 </section>
@@ -895,7 +892,7 @@ const HomePage = () => {
 
                                     <div className="media-body">
                                         <h4 className="text-primary">Contact Sales</h4>
-                                        <a href="mailto:support@5studios.net" className="more-link d-flex align-items-center mt-0">sales@5studios.net</a>
+                                        <a href="mailto:dyaplock@gmail.com" className="more-link d-flex align-items-center mt-0">dyaplock@gmail.com</a>
 
                                         <p className="mt-4">Looking for a custom quote? Need to tell us more about your project? Want a demonstration? Drop us a line</p>
                                     </div>
@@ -910,7 +907,7 @@ const HomePage = () => {
 
                                     <div className="media-body">
                                         <h4 className="text-primary">Technical Support</h4>
-                                        <a href="mailto:support@5studios.net" className="more-link d-flex align-items-center mt-0">support@5studios.net</a>
+                                        <a href="mailto:dyaplock@gmail.com" className="more-link d-flex align-items-center mt-0">dyaplock@gmail.com</a>
 
                                         <p className="mt-4">Any question about how to integrate your product?. Don't fret, our geek team is ready for you.</p>
                                     </div>
@@ -925,52 +922,52 @@ const HomePage = () => {
 
             <footer className="site-footer section bg-dark text-contrast edge top-left">
                 <div className="container py-3">
-                    <div className="row gap-y text-center text-md-left">
-                        <div className="col-md-4 mr-auto">
-                            <img src="img/logo-light.png" alt="" className="logo" />
+                    {    // <div className="row gap-y text-center text-md-left">
+                        //     <div className="col-md-4 mr-auto">
+                        //         <img src="img/logo-light.png" alt="" className="logo" />
 
-                            <p>Laapp, a carefully crafted and powerful HTML5 template, it's perfect to showcase your App or Startup</p>
-                        </div>
+                        //         <p>Dyaplock, a carefully crafted app to help connect you to the right professionals</p>
+                        //     </div>
 
-                        <div className="col-md-2">
-                            <nav className="nav flex-column">
-                                <a className="nav-item py-2 text-contrast" href="#">About</a>
-                                <a className="nav-item py-2 text-contrast" href="#">Services</a>
-                                <a className="nav-item py-2 text-contrast" href="#">Blog</a>
-                            </nav>
-                        </div>
+                        //     <div className="col-md-2">
+                        //         <nav className="nav flex-column">
+                        //             <a className="nav-item py-2 text-contrast" href="#">About</a>
+                        //             <a className="nav-item py-2 text-contrast" href="#">Services</a>
+                        //             <a className="nav-item py-2 text-contrast" href="#">Blog</a>
+                        //         </nav>
+                        //     </div>
 
-                        <div className="col-md-2">
-                            <nav className="nav flex-column">
-                                <a className="nav-item py-2 text-contrast" href="#">Features</a>
-                                <a className="nav-item py-2 text-contrast" href="#">API</a>
-                                <a className="nav-item py-2 text-contrast" href="#">Customers</a>
-                            </nav>
-                        </div>
+                        //     <div className="col-md-2">
+                        //         <nav className="nav flex-column">
+                        //             <a className="nav-item py-2 text-contrast" href="#">Features</a>
+                        //             <a className="nav-item py-2 text-contrast" href="#">API</a>
+                        //             <a className="nav-item py-2 text-contrast" href="#">Customers</a>
+                        //         </nav>
+                        //     </div>
 
-                        <div className="col-md-2">
-                            <nav className="nav flex-column">
-                                <a className="nav-item py-2 text-contrast" href="#">Careers</a>
-                                <a className="nav-item py-2 text-contrast" href="#">Contact</a>
-                                <a className="nav-item py-2 text-contrast" href="#">Search</a>
-                            </nav>
-                        </div>
+                        //     <div className="col-md-2">
+                        //         <nav className="nav flex-column">
+                        //             <a className="nav-item py-2 text-contrast" href="#">Careers</a>
+                        //             <a className="nav-item py-2 text-contrast" href="#">Contact</a>
+                        //             <a className="nav-item py-2 text-contrast" href="#">Search</a>
+                        //         </nav>
+                        //     </div>
 
-                        <div className="col-md-2">
-                            <h6 className="py-2 small">Follow us</h6>
+                        //     <div className="col-md-2">
+                        //         <h6 className="py-2 small">Follow us</h6>
 
-                            <nav className="nav justify-content-around">
-                                <a href="https://facebook.com/5studios.net" target="_blank" className="btn btn-circle btn-sm brand-facebook"><i className="fab fa-facebook"></i></a>
-                                <a href="#" className="btn btn-circle btn-sm brand-twitter"><i className="fab fa-twitter"></i></a>
-                                <a href="#" className="btn btn-circle btn-sm brand-instagram"><i className="fab fa-instagram"></i></a>
-                            </nav>
-                        </div>
-                    </div>
-
-                    <hr className="mt-5 op-5" />
+                        //         <nav className="nav justify-content-around">
+                        //             <a href="https://facebook.com/5studios.net" target="_blank" className="btn btn-circle btn-sm brand-facebook"><i className="fab fa-facebook"></i></a>
+                        //             <a href="#" className="btn btn-circle btn-sm brand-twitter"><i className="fab fa-twitter"></i></a>
+                        //             <a href="#" className="btn btn-circle btn-sm brand-instagram"><i className="fab fa-instagram"></i></a>
+                        //         </nav>
+                        //     </div>
+                        // </div>
+                        // <hr className="mt-5 op-5" />
+                    }
                     <div className="row small">
                         <div className="col-md-4">
-                            <p className="mt-2 mb-0 text-center text-md-left">© 2019 <a href="https://5studios.net">5studios</a>. All Rights Reserved</p>
+                            <p className="mt-2 mb-0 text-center text-md-left">© {new Date().getFullYear()} <a href="https://dyaplock.com">Dyaplock</a>. All Rights Reserved</p>
                         </div>
                     </div>
                 </div>
