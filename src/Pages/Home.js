@@ -690,9 +690,7 @@ const HomePage = () => {
                             <h2 className="heading-line">Why choose dyaplock?</h2>
                             <p className="text-muted lead mx-auto">
                                 Dyaplock provides efficiency when customers seek to book appointments. Customers can interactively pick their preferred times for services. Customer can then schedule the appointment to the business nearby. Customers can view ratings of shops.
-                                <br />
-                                <br />
-                                Business owners will have the luxury on confirming these appointments and providing coupons to their customers, ultimately making there shop tech. savvy and decrease the risk of covid.</p>
+                            </p>
                         </div>
 
                         <div className="row gap-y">
@@ -810,7 +808,7 @@ const HomePage = () => {
                                         </div>
 
                                         <div id="v1-q2" className="collapse card-body">
-                                            Since you report us a support question we try to make our best to find out what is going on, depending on the case it could take more or les time, however a standard time could be minutes or hours.
+                                            Since you report us a support question we try to make our best to find out what is going on, depending on the case it could take more or less time, however a standard time could be minutes or hours.
                                         </div>
                                     </div>
                                 </div>
