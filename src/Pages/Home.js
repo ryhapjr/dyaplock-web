@@ -130,7 +130,7 @@ const HomePage = () => {
                                     <span className="text-primary">Awesome</span> booking
                                 </span>
 
-                                <h1 className="display-4 display-md-2 mt-3"><span className="bold">Dyaplock App</span></h1>
+                                <h1 className="display-4 display-md-2 my-3"><span className="bold">Dyaplock App</span></h1>
                                 <p className="lead bold text-primary">The booking app</p>
 
                                 <p className="lead">Don't waste your time on  a line. Use the dyaplock!</p>
@@ -247,7 +247,7 @@ const HomePage = () => {
                             <div className="col-md-6">
                                 <div className="section-heading">
                                     <h2 className="heading-line">Powered with multiple bits</h2>
-                                    <p className="lead text-muted">Dyaplock provides a service that creates efficiency when customers seek to book appointments. Customers can conveniently pick the time of request for service. Customer can then schedule the appointment to the business nearby. Customers can view ratings of shops. Business owners will have the luxury on confirming these appointments and providing coupons to their customers, ultimately making there shop tech. savvy and decrease the risk of covid.</p>
+                                    <p className="lead text-muted">Dyaplock provides a service that creates efficiency when customers seek to book appointments. Customers can conveniently pick the time of request for service. Customer can schedule appointments to the businesses nearby. Customers can view ratings of shops. Business owners will have the luxury of confirming these appointments and providing coupons to their customers, ultimately making their business tech. savvy and decrease the risk of covid.</p>
                                 </div>
 
                                 <a href="#!" className="btn btn-outline-alternate more-link mt-0">Start Now</a>
@@ -328,7 +328,7 @@ const HomePage = () => {
 
                                         <div className="media-body mt-3 mt-md-0">
                                             <h5 className="bold mt-0 mb-1">Proper communication</h5>
-                                            <p className="m-0">There is a realtime connection between you and your professionals. You are never out of information</p>
+                                            <p className="m-0">There is a realtime connection between you and your professionals. You are never out of the loop</p>
                                         </div>
                                     </li>
                                 </ul>
@@ -400,7 +400,11 @@ const HomePage = () => {
                                         <h4 className="text-alternate bold text-capitalize">basic</h4>
                                         <p>For individuals</p>
 
-                                        <div className="pricing-details"><span className="pricing-value"><span className="odometer price" data-monthly="0" data-yearly="0">0</span></span></div>
+                                        <div className="pricing-details">
+                                            <span className="pricing-value">
+                                                <span className=" ">Free</span>
+                                            </span>
+                                        </div>
                                         <a href="#!" className="more-link btn btn-outline-alternate mb-3">I want this</a>
                                     </div>
 
@@ -683,15 +687,18 @@ const HomePage = () => {
 
                     <div className="container pb-8 bring-to-front">
                         <div className="section-heading text-center">
-                            <h2 className="heading-line">Why you should choose Dyaplock?</h2>
+                            <h2 className="heading-line">why choose dyaplock?</h2>
                             <p className="text-muted lead mx-auto">
-                                Dyaplock provides a service that creates efficiency when customers seek to book appointments. Customers can conveniently pick the time of request for service. Customer can then schedule the appointment to the business nearby. Customers can view ratings of shops. Business owners will have the luxury on confirming these appointments and providing coupons to their customers, ultimately making there shop tech. savvy and decrease the risk of covid.</p>
+                                Dyaplock provides efficiency when customers seek to book appointments. Customers can interactively pick their preferred times for services. Customer can then schedule the appointment to the business nearby. Customers can view ratings of shops.
+                                <br />
+                                <br />
+                                Business owners will have the luxury on confirming these appointments and providing coupons to their customers, ultimately making there shop tech. savvy and decrease the risk of covid.</p>
                         </div>
 
                         <div className="row gap-y">
                             <div className="col-md-6">
                                 <h4 className="bold text-alternate">It all start by being on the right app</h4>
-                                <p className="text-muted lead mb-5">When you're looking for the right professional for the job, Dyaplock is there to help.</p>
+                                <p className="text-muted lead mb-5">When you're looking for the right professional for the job, dyaplock is there to help.</p>
 
                                 <ul className="list-unstyled why-icon-list">
 
@@ -868,8 +875,8 @@ const HomePage = () => {
                             <div className="col-md-6 mx-auto">
                                 <div className="section-heading text-center">
                                     <i className="pe pe-7s-unlock fa-3x text-alternate"></i>
-                                    <h2 className="heading-line bold mt-4">Start your 30 days free trial for businesses now!</h2>
-                                    <p className="lead text-muted">By signing up you will get 30 days free trial. You won't be charged until the trial period ends, <span className="italic">don't let this offer pass in from of your eyes</span></p>
+                                    <h2 className="heading-line bold mt-4">Start your 60 days free trial for businesses now!</h2>
+                                    <p className="lead text-muted">There is a 60 day free trial, don’t miss this one time introduction offer, billing will only commence after the trial period is over.</p>
                                 </div>
                             </div>
                         </div>
@@ -909,7 +916,7 @@ const HomePage = () => {
                                         <h4 className="text-primary">Technical Support</h4>
                                         <a href="mailto:dyaplock@gmail.com" className="more-link d-flex align-items-center mt-0">dyaplock@gmail.com</a>
 
-                                        <p className="mt-4">Any question about how to integrate your product?. Don't fret, our geek team is ready for you.</p>
+                                        <p className="mt-4">Any question about how to integrate your product?. Don't fret, our 24/7  geek team is ready to assistance you at no extra cost.</p>
                                     </div>
                                 </div>
                             </div>
