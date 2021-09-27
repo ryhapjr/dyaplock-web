@@ -687,7 +687,7 @@ const HomePage = () => {
 
                     <div className="container pb-8 bring-to-front">
                         <div className="section-heading text-center">
-                            <h2 className="heading-line">why choose dyaplock?</h2>
+                            <h2 className="heading-line">Why choose dyaplock?</h2>
                             <p className="text-muted lead mx-auto">
                                 Dyaplock provides efficiency when customers seek to book appointments. Customers can interactively pick their preferred times for services. Customer can then schedule the appointment to the business nearby. Customers can view ratings of shops.
                                 <br />
