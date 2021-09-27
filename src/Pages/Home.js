@@ -1,12 +1,12 @@
-import { Box, Heading } from '@chakra-ui/react';
+import { Box } from '@chakra-ui/react';
 import React from 'react';
 import logoImg from "../img/logo.png";
-import logoImg1 from "../img/logos/1.png";
-import logoImg2 from "../img/logos/2.png";
-import logoImg3 from "../img/logos/3.png";
-import logoImg4 from "../img/logos/4.png";
-import logoImg5 from "../img/logos/5.png";
-import logoImg6 from "../img/logos/6.png";
+// import logoImg1 from "../img/logos/1.png";
+// import logoImg2 from "../img/logos/2.png";
+// import logoImg3 from "../img/logos/3.png";
+// import logoImg4 from "../img/logos/4.png";
+// import logoImg5 from "../img/logos/5.png";
+// import logoImg6 from "../img/logos/6.png";
 import screenAppImg1 from "../img/screens/app/1.png";
 import screenAppImg6 from "../img/screens/app/6.png";
 import screenAppImg3 from "../img/screens/app/3.png";
@@ -16,15 +16,15 @@ import appPiece3 from "../img/screens/app/pieces/3.png";
 import appPiece4 from "../img/screens/app/pieces/4.png";
 import appPiece5 from "../img/screens/app/pieces/5.png";
 import tabletImg1 from "../img/screens/tablet/1.png"
-import apxImg from "../img/demo/header/apx.svg";
-import bsImg from "../img/demo/header/bs.svg";
-import cordovaImg from "../img/demo/header/cordova.svg";
-import cssImg from "../img/demo/header/css.svg";
-import faImg from "../img/demo/header/fa.svg";
-import htmlImg from "../img/demo/header/html.svg";
-import jsImg from "../img/demo/header/js.svg";
-import npmImg from "../img/demo/header/npm.svg";
-import sassImg from "../img/demo/header/sass.svg";
+// import apxImg from "../img/demo/header/apx.svg";
+// import bsImg from "../img/demo/header/bs.svg";
+// import cordovaImg from "../img/demo/header/cordova.svg";
+// import cssImg from "../img/demo/header/css.svg";
+// import faImg from "../img/demo/header/fa.svg";
+// import htmlImg from "../img/demo/header/html.svg";
+// import jsImg from "../img/demo/header/js.svg";
+// import npmImg from "../img/demo/header/npm.svg";
+// import sassImg from "../img/demo/header/sass.svg";
 
 const HomePage = () => {
     return (
@@ -133,7 +133,7 @@ const HomePage = () => {
                                 <h1 className="display-4 display-md-2 my-3"><span className="bold">Dyaplock App</span></h1>
                                 <p className="lead bold text-primary">The booking app</p>
 
-                                <p className="lead">Don't waste your time on  a line. Use the dyaplock!</p>
+                                <p className="lead">"Don't waste your time on  a line. Use the dyaplock!"</p>
 
                                 <nav className="nav my-5">
                                     <a href="#!" className="btn btn-rounded btn-alternate mr-2">Download IOS</a>
@@ -806,7 +806,7 @@ const HomePage = () => {
                                 <div data-aos="fade-up">
                                     <div className="card shadow-box shadow-hover mb-3">
                                         <div className="card-header py-3">
-                                            <a href="#" className="card-title collapsed" data-toggle="collapse" data-target="#v1-q2">What is the typical response time for a support question?</a>
+                                            <a href="#!" className="card-title collapsed" data-toggle="collapse" data-target="#v1-q2">What is the typical response time for a support question?</a>
                                         </div>
 
                                         <div id="v1-q2" className="collapse card-body">
@@ -830,7 +830,7 @@ const HomePage = () => {
                                 <div data-aos="fade-up">
                                     <div className="card shadow-box shadow-hover mb-3">
                                         <div className="card-header py-3">
-                                            <a href="#" className="card-title collapsed" data-toggle="collapse" data-target="#v1-q4">Can I suggest a new feature?</a>
+                                            <a href="#!" className="card-title collapsed" data-toggle="collapse" data-target="#v1-q4">Can I suggest a new feature?</a>
                                         </div>
 
                                         <div id="v1-q4" className="collapse card-body">
