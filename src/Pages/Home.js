@@ -206,7 +206,7 @@ const HomePage = () => {
                   </a>
                   <a
                     href="https://play.google.com/store/apps/details?id=com.dyaplock"
-                    className="btn btn-rounded btn-outline-alternate scrollto"
+                    className="btn btn-rounded btn-outline-alternate"
                     target="_blank"
                     rel="noreferrer"
                   >
